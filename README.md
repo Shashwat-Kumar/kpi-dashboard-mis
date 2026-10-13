@@ -31,7 +31,7 @@ The random seed is fixed, so outputs are reproducible.
 
 ## Related writing
 
-- [Models are only as good as their inputs](https://shashwat-kumar.github.io/shashwat-analytics/essays/data-quality.html)
-- [When the score becomes the goal](https://shashwat-kumar.github.io/shashwat-analytics/essays/goodhart.html)
+- [Models are only as good as their inputs](https://readsigil.com/essays/data-quality.html)
+- [When the score becomes the goal](https://readsigil.com/essays/goodhart.html)
 
 MIT licensed.
